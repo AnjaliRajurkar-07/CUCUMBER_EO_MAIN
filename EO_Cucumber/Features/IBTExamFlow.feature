@@ -36,7 +36,7 @@ Feature: IBT exam flow
    And verify TF Question and select option
    And verify Essay Question and give answer
    And verify SA Question and give answer
-   And XYZ & ABC
+   And XYZ
    
  #    And verify if candidate clicking next button
  #    And verify if candidate see the question2 and select multi options and moving to next question
